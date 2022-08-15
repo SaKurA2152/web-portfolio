@@ -90,4 +90,16 @@ a:hover {
   bottom: 16px;
 }
 /* ===== OVERALL END ===== */
+
 /* ===== FOOTER BEGIN ===== */
+.footer-cover{
+  max-width: 1000px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.56);
+  position: relative;
+}
+.footer-contents {
+  padding: 16px;
+  font-size: 0.875rem;
+}
+/* ===== FOOTER END ===== */
