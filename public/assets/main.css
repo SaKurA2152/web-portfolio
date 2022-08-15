@@ -66,4 +66,28 @@ a:hover {
 /* ===== COMMON PARTS END ===== */
 
 /* ===== OVERALL BEGIN ===== */
+.page-cover {
+  min-height: 100vh;
+}
+.page-title{
+  margin: 0;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.page-bg-icon{
+  position: fixed;
+  width: 32px;
+}
+.page-bg-icon-lt{
+  top: 16px;
+  left: 16px;
+}
+.page-bg-icon-rb{
+  right: 16px;
+  bottom: 16px;
+}
 /* ===== OVERALL END ===== */
+/* ===== FOOTER BEGIN ===== */
