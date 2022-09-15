@@ -298,7 +298,7 @@ a:hover {
   height: 40px;
   max-width: 1000px;
   margin: 0 auto;
-  z-index: 15;
+  z-index: 15; /*指定しない場合カードの後ろにまわりこむ*/
   background-color: #fefefe;
   box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.56);
   box-sizing: border-box;
